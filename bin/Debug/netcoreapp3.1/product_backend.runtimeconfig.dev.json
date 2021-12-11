@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ACER-NITRO5-OEM\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ACER-NITRO5-OEM\\.nuget\\packages"
+    ]
+  }
+}
